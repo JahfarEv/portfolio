@@ -111,8 +111,9 @@ body{
 }
 
 .aboutSec img{
-   padding-top: 50px;
-   padding-bottom: 50px;
+   padding-top: 200px;
+   padding-bottom: 200px;
+  
 }
 .timeline-sec{
     padding-top:50px;
@@ -287,6 +288,9 @@ body{
     }.landing h1{
         font-size: 72px;
         
+    }
+    .aboutSec .img{
+        margin-bottom: 300px;
     }
 }
 
